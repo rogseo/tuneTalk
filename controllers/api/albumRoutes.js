@@ -59,6 +59,7 @@ router.get('/:id',async(req, res)=>{
 
         })
         .catch(function(err){
+            alert("Spotify Token needed for Search");
             res.status(500).json(err);
         });
     }
