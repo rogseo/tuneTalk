@@ -122,7 +122,7 @@ router.get('/login', (req, res) => {
         res.redirect('/profile');
         return;
     }
-    res.render('login');
+    res.render('logIn');
 });
 router.get('/Signup', (req, res) => {
 
