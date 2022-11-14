@@ -116,4 +116,5 @@ Contributors names and contact info
 
 Inspiration, code snippets, etc.
 time ago helper function : https://muffinman.io/blog/javascript-time-ago-function/
+Avatar : https://avatars.dicebear.com
 
